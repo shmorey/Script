@@ -8,4 +8,4 @@ class Test extends React.Component {
 }
 
 ReactDOM.render(<Test />, document.getElementById('root'));
-test 2000
+test 2000;
