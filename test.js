@@ -10,3 +10,4 @@ class Test extends React.Component {
 ReactDOM.render(<Test />, document.getElementById('root'));
 test 2000;
 added 5000;
+added 6000;
